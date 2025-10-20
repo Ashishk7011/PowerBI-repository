@@ -24,7 +24,7 @@ Power BI: For interactive reporting and dashboard development.
 
 Excel/CSV: Source data preparation and cleaning.
 
-DAX (Data Analysis Expressions): Calculations for sales metrics, percentages, and growth analysis.
+DAX: Calculations for sales metrics, percentages, and growth analysis.
 
 Benefits:
 
